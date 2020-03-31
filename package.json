@@ -2,7 +2,7 @@
   "private": true,
   "dependencies": {
     "bal-util": "~1.15.3",
-    "docpad": "6.40.0",
+    "docpad": "6.82.5",
     "docpad-plugin-eco": "2.x",
     "docpad-plugin-highlightjs": "2.x",
     "docpad-plugin-less": "~2.1.2",
